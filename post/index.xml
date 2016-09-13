@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Abbey Code Club</title>
+    <link>https://johnbatty.github.io/abbeycodeclub/post/</link>
+    <description>Recent content in Posts on Abbey Code Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Sep 2016 09:17:48 +0100</lastBuildDate>
+    <atom:link href="https://johnbatty.github.io/abbeycodeclub/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>welcome</title>
+      <link>https://johnbatty.github.io/abbeycodeclub/post/welcome/</link>
+      <pubDate>Tue, 13 Sep 2016 09:17:48 +0100</pubDate>
+      
+      <guid>https://johnbatty.github.io/abbeycodeclub/post/welcome/</guid>
+      <description>
+
+&lt;h1 id=&#34;welcome-to-abbey-code-club&#34;&gt;Welcome to Abbey Code Club!&lt;/h1&gt;
+
+&lt;p&gt;Here are some useful links:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.codeclub.org.uk&#34;&gt;Code Club&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://code.org/learn&#34;&gt;code.org Hour of Code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.raspberrypi.org&#34;&gt;Raspberry Pi&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
