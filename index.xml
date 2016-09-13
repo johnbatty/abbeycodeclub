@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abbey Code Club</title>
-    <link>https://johnbatty.github.io/abbeycodeclub/</link>
+    <link>http://abbeycodeclub.org/</link>
     <description>Recent content on Abbey Code Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Sep 2016 09:17:48 +0100</lastBuildDate>
-    <atom:link href="https://johnbatty.github.io/abbeycodeclub/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://abbeycodeclub.org/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>welcome</title>
-      <link>https://johnbatty.github.io/abbeycodeclub/post/welcome/</link>
+      <link>http://abbeycodeclub.org/post/welcome/</link>
       <pubDate>Tue, 13 Sep 2016 09:17:48 +0100</pubDate>
       
-      <guid>https://johnbatty.github.io/abbeycodeclub/post/welcome/</guid>
+      <guid>http://abbeycodeclub.org/post/welcome/</guid>
       <description>
 
 &lt;h1 id=&#34;welcome-to-abbey-code-club&#34;&gt;Welcome to Abbey Code Club!&lt;/h1&gt;
