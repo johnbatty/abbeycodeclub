@@ -6,8 +6,184 @@
     <description>Recent content in Posts on Abbey Code Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Sep 2016 09:17:48 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 13 Sep 2016 21:48:58 +0100</lastBuildDate>
     <atom:link href="http://abbeycodeclub.org/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CodeClub/001 (13/9/16)</title>
+      <link>http://abbeycodeclub.org/post/codeclub-1/</link>
+      <pubDate>Tue, 13 Sep 2016 21:48:58 +0100</pubDate>
+      
+      <guid>http://abbeycodeclub.org/post/codeclub-1/</guid>
+      <description>
+
+&lt;p&gt;What a great first Code Club! I hope you all enjoyed it as much as I did.&lt;/p&gt;
+
+&lt;p&gt;This week we:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;talked about why it is important and fun to learn about coding&lt;/li&gt;
+&lt;li&gt;looked at how computers have changed in recent years, and thought about how they might change in future (nobody knows!)&lt;/li&gt;
+&lt;li&gt;did some great programming of &lt;a href=&#34;https://code.org/mc&#34;&gt;Minecraft&lt;/a&gt; and &lt;a href=&#34;https://studio.code.org/s/infinity/stage/1/puzzle/1&#34;&gt;Disney Infinity Play Lab&lt;/a&gt; at &lt;a href=&#34;https://code.org&#34;&gt;code.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;had a play with my super-colourful &lt;a href=&#34;https://learn.adafruit.com/adafruit-neopixel-uberguide/overview&#34;&gt;NeoPixel&lt;/a&gt; LED strip, controlled by a &lt;a href=&#34;http://microview.io&#34;&gt;Microview&lt;/a&gt; microcontroller and a Wii Nunchuk hand controller&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I was really impressed with how much progress you all made in the programming exercises!&lt;/p&gt;
+
+&lt;h1 id=&#34;code-clubs&#34;&gt;Code clubs&lt;/h1&gt;
+
+&lt;p&gt;There are now nearly 5,000 Code Clubs across the country! Can you work out which circle we are in?!&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://abbeycodeclub.org/img/national_code_clubs.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;National Code Clubs&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h1 id=&#34;computers-are-everywhere&#34;&gt;Computers are everywhere!&lt;/h1&gt;
+
+&lt;p&gt;We talked about how computers are not just the things with keyboards and screens that are in the computer lab.  There are now computers inside most electrical products: phones, TVs, cars, and even electric toothbrushes!&lt;/p&gt;
+
+&lt;p&gt;Soon all these devices will communicate with each other using the internet!  This is called the &amp;ldquo;Internet of Things&amp;rdquo;&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://abbeycodeclub.org/img/iot.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Internet of Things&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h1 id=&#34;how-computers-have-changed&#34;&gt;How computers have changed&amp;hellip;&lt;/h1&gt;
+
+&lt;p&gt;Early computers filled a whole room!&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://abbeycodeclub.org/img/ibm_360.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;IBM/360 mainframe computer&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;This was the first low cost home computer, produced by a British company called Sinclair.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://abbeycodeclub.org/img/zx80.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Sinclair ZX80&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;This was the first computer I used in school.  We only had one of them!&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://abbeycodeclub.org/img/trs_80.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Radio Shack TRS-80&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;The first mobile phones were really big!&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://abbeycodeclub.org/img/big_phone.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;I don&amp;#39;t think you&amp;#39;ll fit that in your pocket...&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;But have shrunk over the years&amp;hellip;&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://abbeycodeclub.org/img/shrinking_phones.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;And now have got bigger again!  Today&amp;rsquo;s phones are incredibly powerful computers with a large super high quality screens and camera.  This is probably 1000 times more powerful than the IBM/360 mainframe shown earlier!&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://abbeycodeclub.org/img/iphone7.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;iPhone 7&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h1 id=&#34;the-future&#34;&gt;The future&amp;hellip;&lt;/h1&gt;
+
+&lt;p&gt;No one knows what the future holds.  Computers are still developing incredibly quickly.  Will you all be doing school lessons using virtual reality headsets&amp;hellip;?!&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://abbeycodeclub.org/img/vr_headset.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Virtual Reality headset&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;What I can say for certain is that computers will play an even bigger part of everyday life than they are now.  So the more you know about how they work, the better!&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m looking forward to seeing you all next week!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>welcome</title>
@@ -33,23 +209,25 @@
 
 &lt;p&gt;Home of all Code Clubs. There are nearly 5,000 clubs in the UK!&lt;/p&gt;
 
-&lt;p&gt;Lots of &lt;a href=&#34;https://www.codeclubprojects.org/en-GB/&#34;&gt;projects here&lt;/a&gt;, some of which we will be doing in our Code Club.  Most of these projects need a passcode to access them.  If you are keen to try them out then tell me and I&amp;rsquo;ll give you the magic code.&lt;/p&gt;
+&lt;p&gt;Lots of &lt;a href=&#34;https://www.codeclubprojects.org/en-GB/&#34;&gt;projects here&lt;/a&gt;, some of which we will be doing in our Code Club.  Most of these projects need a passcode to access them.  If you are keen to try them out outside of Code Club then tell me and I&amp;rsquo;ll give you the required code.&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://code.org/learn&#34;&gt;Code.org&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;The USA&amp;rsquo;s version of Code Club!&lt;/p&gt;
+&lt;p&gt;An American organisation, whose mission is to teach children to code. Sounds like a good place for us to go!&lt;/p&gt;
 
-&lt;p&gt;There are some great &amp;ldquo;Hour of code&amp;rdquo; games here that are a fantastic way to get started with programming, including &lt;a href=&#34;https://code.org/mc&#34;&gt;Minecraft&lt;/a&gt;, &lt;a href=&#34;https://code.org/starwars&#34;&gt;Star Wars&lt;/a&gt;, and &lt;a href=&#34;https://studio.code.org/s/frozen/stage/1/puzzle/1&#34;&gt;Frozen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;There are some great &amp;ldquo;Hour of Code&amp;rdquo; games here that are a fantastic way to get started with programming, including &lt;a href=&#34;https://code.org/mc&#34;&gt;Minecraft&lt;/a&gt;, &lt;a href=&#34;https://code.org/starwars&#34;&gt;Star Wars&lt;/a&gt;, and &lt;a href=&#34;https://studio.code.org/s/frozen/stage/1/puzzle/1&#34;&gt;Frozen&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Can you complete them all?!&lt;/p&gt;
+
+&lt;p&gt;You should also watch some of the &lt;a href=&#34;https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP&#34;&gt;videos&lt;/a&gt; - they have a lot of famous people in them, including Bill Gates (who started Microsoft), Mark Zuckerberg (who started Facebook) and Barack Obama (the USA president!). All of these people think it is really important for children to learn to code!&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://scratch.mit.edu/projects/editor/?tip_bar=home&#34;&gt;Scratch&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;The most popular way to write programs using graphical blocks.  A great place to start.  It means you don&amp;rsquo;t have to type very much, and teaches you the main principles of computer programming.&lt;/p&gt;
+&lt;p&gt;The most popular way to write programs using graphical blocks.  A great tool to start with.  It means you don&amp;rsquo;t have to type very much, and teaches you the main principles of computer programming.&lt;/p&gt;
 
 &lt;p&gt;There are instructions on the right hand side of the page to help you learn how to use it!&lt;/p&gt;
 
@@ -65,9 +243,9 @@
 
 &lt;p&gt;&lt;a href=&#34;https://www.microbit.co.uk&#34;&gt;BBC micro:bit&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Another low cost &amp;ldquo;wearable&amp;rdquo; computer, recently release by the BBC (yes, the people who make the TV programs!).  Check out the &lt;a href=&#34;https://www.microbit.co.uk/watch-video&#34;&gt;video&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A low cost &amp;ldquo;wearable&amp;rdquo; computer, recently released by the BBC (yes, the people who make TV programmes!).  Check out the &lt;a href=&#34;https://www.microbit.co.uk/watch-video&#34;&gt;video&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Through the generosity of Code Club, we are getting 4 of these, so I look forward to us using them later in the term!&lt;/p&gt;
+&lt;p&gt;Through the generosity of Code Club, we will shoortly be getting four of these, so I look forward to us using them later in the term!&lt;/p&gt;
 
 &lt;p&gt;If you want to get some practice in, you can follow a tutorial, write programs and run them on a &amp;ldquo;virtual&amp;rdquo; micro:bit &lt;a href=&#34;https://www.microbit.co.uk/create-code&#34;&gt;here&lt;/a&gt;.  Tip: it will easiest if you start off using the Block Editor!&lt;/p&gt;
 
