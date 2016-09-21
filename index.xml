@@ -17,11 +17,25 @@
       <guid>http://abbeycodeclub.org/post/codeclub-002/</guid>
       <description>
 
-&lt;p&gt;Code club 2 was a busy one! The computer room was packed, and it was a very hot day too!&lt;/p&gt;
+&lt;p&gt;Code Club 2 was a busy one! The computer room was packed, and it was a very hot day too!&lt;/p&gt;
 
 &lt;h1 id=&#34;scratch-game-hide-and-seek&#34;&gt;Scratch game: Hide and Seek&lt;/h1&gt;
 
 &lt;p&gt;This week we used &lt;a href=&#34;https://scratch.mit.edu&#34;&gt;Scratch&lt;/a&gt; to write a little &lt;a href=&#34;https://scratch.mit.edu/projects/85963232/?tip_bar=hide#editor&#34;&gt;Hide and Seek game&lt;/a&gt;.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://abbeycodeclub.org/img/hideandseek.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Hide and Seek&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
 
 &lt;p&gt;Scratch is the most popular programming environment for primary school children. It allows you to build programs by dragging and dropping graphical blocks. This makes it much easier to learn about key computer programming ideas without having to type much, and without the annoying errors you get if you type programs as text.&lt;/p&gt;
 
@@ -35,6 +49,8 @@
 &lt;/ul&gt;
 
 &lt;p&gt;The great thing is that you can look at and modify the code for any of these. It is very common for people to produce modified versions of other people&amp;rsquo;s programs - this is called &amp;lsquo;remixing&amp;rsquo;!&lt;/p&gt;
+
+&lt;p&gt;Have a go, and tell me if you create any remixes!&lt;/p&gt;
 
 &lt;h1 id=&#34;tingbot&#34;&gt;Tingbot&lt;/h1&gt;
 
@@ -87,7 +103,7 @@
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://abbeycodeclub.org/img/python_logo.jpg&#34; /&gt;
+        &lt;img src=&#34;http://abbeycodeclub.org/img/pythonlogo.jpg&#34; /&gt;
     
     
     &lt;figcaption&gt;
