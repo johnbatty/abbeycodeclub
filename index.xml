@@ -6,8 +6,254 @@
     <description>Recent content on Abbey Code Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Sep 2016 09:03:34 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 26 Sep 2016 21:36:24 +0100</lastBuildDate>
     <atom:link href="http://abbeycodeclub.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>PICO-8 First steps</title>
+      <link>http://abbeycodeclub.org/post/pico-8/pico-8.02/</link>
+      <pubDate>Mon, 26 Sep 2016 21:36:24 +0100</pubDate>
+      
+      <guid>http://abbeycodeclub.org/post/pico-8/pico-8.02/</guid>
+      <description>
+
+&lt;h1 id=&#34;pico-8-first-steps&#34;&gt;PICO-8: First steps&lt;/h1&gt;
+
+&lt;p&gt;Before we start to write any code, you need to learn how to find your way around the PICO-8 screens.&lt;/p&gt;
+
+&lt;h2 id=&#34;start-the-pico-8-application&#34;&gt;Start the PICO-8 application&lt;/h2&gt;
+
+&lt;p&gt;PICO-8 should already be installed on your computer. Click on the PICO-8 entry in the Start Menu to run it.  You will see this screen and hear a little tune when it starts up&amp;hellip;&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://abbeycodeclub.org/img/pico-8/console.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Console&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;To run a program, you type &amp;ldquo;RUN&amp;rdquo; and press the &amp;ldquo;Enter&amp;rdquo; key. At the moment this does absolutely nothing, as we haven&amp;rsquo;t written a program yet!&lt;/p&gt;
+
+&lt;p&gt;Go ahead and try it!&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://abbeycodeclub.org/img/pico-8/run.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Run the current program&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;We can tell PICO-8 to do stuff by typing at this command prompt. For example, PICO-8 can print messages and do sums!&lt;/p&gt;
+
+&lt;p&gt;Again, try it out! If type something the computer it won&amp;rsquo;t catch fire! Make up your own messages to print!&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://abbeycodeclub.org/img/pico-8/print.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Printing messages&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Computers are really fussy about what you type. If you make just a single mistake, the computer will give you an error message and refuse to run the command or program. If you see an error then you need to check your code and work out what is wrong.&lt;/p&gt;
+
+&lt;p&gt;Look at these examples and see if you can spot my mistakes!&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://abbeycodeclub.org/img/pico-8/errors.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Nasty error messages!&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;You will see these errors when writing code - we all make mistakes! So don&amp;rsquo;t panic when you get them - the computer is just trying to help you get your code right!&lt;/p&gt;
+
+&lt;h2 id=&#34;switch-between-screens&#34;&gt;Switch between screens&lt;/h2&gt;
+
+&lt;p&gt;If you press the &amp;ldquo;ESC&amp;rdquo; key (top left key on your keyboard) then you switch between the console window and the editor windows.  You use the editor windows to write your code and design your graphics and sound.&lt;/p&gt;
+
+&lt;p&gt;Press ESC once and you will see the code editor&amp;hellip; We&amp;rsquo;ll write some code in here very soon!&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://abbeycodeclub.org/img/pico-8/code_window.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Code editor&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Press ESC again and you will go back to the console window.
+Then press ESC again to go back to the code editor!&lt;/p&gt;
+
+&lt;p&gt;See the icons in the top right of the code editor? Click on those to see the other editors&amp;hellip;&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://abbeycodeclub.org/img/pico-8/sprite_editor.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Sprite  (graphics) editor&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://abbeycodeclub.org/img/pico-8/level_editor.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Level/map editor&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://abbeycodeclub.org/img/pico-8/sound_editor.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Sound editor&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://abbeycodeclub.org/img/pico-8/music_editor.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Music editor&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>PICO-8 Introduction</title>
+      <link>http://abbeycodeclub.org/post/pico-8/pico-8.01/</link>
+      <pubDate>Mon, 26 Sep 2016 21:36:24 +0100</pubDate>
+      
+      <guid>http://abbeycodeclub.org/post/pico-8/pico-8.01/</guid>
+      <description>
+
+&lt;h1 id=&#34;pico-8-fantasy-games-console&#34;&gt;PICO-8: Fantasy Games Console!&lt;/h1&gt;
+
+&lt;h2 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h2&gt;
+
+&lt;p&gt;Last week you told me that you&amp;rsquo;d like to learn how to program by typing code, rather than dragging blocks around!  You asked for it, so we are now going to learn how to write a game with actual code. This will take several weeks and won&amp;rsquo;t be easy, but will definitely be worth it! Fasten your seatbelt!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.lexaloffle.com/pico-8.php&#34;&gt;PICO-8&lt;/a&gt; is a &amp;ldquo;fantasy games console&amp;rdquo;, for making, sharing and playing small games.  In PICO-8, the code is written using a programming language called &lt;a href=&#34;https://www.lua.org/about.html&#34;&gt;Lua&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Most games consoles, such as the Sony Playstation or Nintendo Wii, are physical boxes that cost a lot of money and can only be used to play games that you buy.  PICO-8 is different - it runs as a program on an existing computer running Windows, OSX (Apple Mac), or Linux (Raspberry Pi).&lt;/p&gt;
+
+&lt;p&gt;What is really great about PICO-8 is that it includes everything you need to write your own games - you write the code, design the graphics, create the sounds, and play the game all inside of PICO-8.  It all looks very retro, which I think is cool! All games looked like this when I was your age :-)&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://abbeycodeclub.org/img/pico-8/pico-8-demo1.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Tweaking graphics and running game&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://abbeycodeclub.org/img/pico-8/pico-8-demo2.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Creating bleeps and blerps!&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://abbeycodeclub.org/img/pico-8/pico-8-demo3.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Editing code&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.lexaloffle.com/pico-8.php&#34;&gt;PICO-8 homepage&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sectordub.itch.io/pico-8-fanzine-1&#34;&gt;PICO-8 fanzine - Written by fans, lots of info and tips&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/felipebueno/awesome-PICO-8&#34;&gt;Great list of PICO-8 resources, tutorials, tools and more&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.raspberrypi.org/magpi/pico-8-review/&#34;&gt;Raspberry Pi Magpi magazine review&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;video-tutorials&#34;&gt;Video tutorials&lt;/h2&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/ZuaLuMhwcc8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/Cjxzjc0NFpw&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
     
     <item>
       <title>CodeClub/002 (20/9/16)</title>
